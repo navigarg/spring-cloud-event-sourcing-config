@@ -1,4 +1,0 @@
-test:
-  message: Spring other repository
-server:
-  port: 3333
